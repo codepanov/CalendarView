@@ -91,7 +91,7 @@ export default {
       booking_data: {},
 
       // server data | comes from response as a prop
-      months: ["October", "November", "December"], // [[], [], []]
+      months: ["October", "November", "December"],
       dates: ["01/10", "02/10", "03/10", "04/10"],
       inventories: [
         {
